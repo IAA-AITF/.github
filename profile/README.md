@@ -59,7 +59,7 @@ actuarial profession in exploring topical areas of AI and actuarial practice.
 By accessing or using this repository, you acknowledge and agree to the terms of this
 disclaimer.
 
-_Last Update: YYYY-MM-DD_
+_Last Update: 2025-10-07_
 
 </details>
 
