@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IAA_logo.png" alt="International Actuarial Association – AI Task Force" width="140">
+  <img src="IAA_logo.png" alt="International Actuarial Association – AI Task Force" width="80%">
 </p>
 
 <h1 align="center">International Actuarial Association – AI Task Force (IAA-AITF)</h1>
