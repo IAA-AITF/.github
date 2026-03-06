@@ -1,26 +1,42 @@
 <p align="center">
-  <img src="IAA_logo.png" alt="International Actuarial Association – AI Task Force" width="80%">
+  <img src="IAA_logo.png" alt="International Actuarial Association – AI Task Force" width="600">
 </p>
 
-<h1 align="center">International Actuarial Association – AI Task Force (IAA-AITF)</h1>
-
-<p align="center">
-  Curating, developing, and sharing actuarial AI case studies, toolkits, and resources.
-</p>
+<h1 align="center">International Actuarial Association – AI Task Force</h1>
 
 <p align="center">
-  <a href="DISCLAIMER.pdf"><strong>Read the full IAA Repository Disclaimer (PDF)</strong></a>
+  <em>Curating, developing, and sharing actuarial AI case studies, toolkits, and resources.</em>
 </p>
+
+---
+
+## Our Repositories
+
+| Repository | Description |
+|:-----------|:------------|
+| [**Actuarial AI Case Studies**](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies) | A curated collection of case studies demonstrating AI applications in actuarial science — from machine learning and generative AI to agentic systems. |
+| [**AI Tools for Actuaries**](https://github.com/IAA-AITF/AI-Tools-for-Actuaries) | Tutorials, guides, and best practices for using AI-powered tools in actuarial workflows. |
+
+---
+
+## Get Involved
+
+We welcome contributions from actuaries, data scientists, and AI practitioners worldwide. Each repository contains a `CONTRIBUTING.md` with detailed submission guidelines.
+
+- Browse all repositories: [github.com/IAA-AITF](https://github.com/orgs/IAA-AITF/repositories)
+- Questions or suggestions: [Open an issue](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies/issues) or [contact us via email](mailto:simon.hatzesberger@gmail.com)
+
+---
 
 > [!IMPORTANT]
-> **IAA GitHub Disclaimer (summary)**  
-> Materials across IAA-AITF repositories are provided “as is”, without warranties of any kind; use is at your own risk.  
-> The IAA is not liable for any losses or damages arising from use of, or reliance on, the materials.  
-> The materials do not constitute professional actuarial, legal, financial, or other advice.  
-> <a href="DISCLAIMER.pdf"><strong>Read the full disclaimer (PDF)</strong></a>.
+> **IAA GitHub Disclaimer (Summary)**
+> Materials across IAA-AITF repositories are provided "as is", without warranties of any kind; use is at your own risk.
+> The IAA is not liable for any losses or damages arising from use of, or reliance on, the materials.
+> The materials do not constitute professional actuarial, legal, financial, or other advice.
+> [**Read the full disclaimer (PDF)**](DISCLAIMER.pdf)
 
 <details>
-<summary><strong>Read the full disclaimer on this page (expand)</strong></summary>
+<summary><strong>Read the full disclaimer on this page</strong></summary>
 
 <br>
 
@@ -35,7 +51,7 @@ actuarial profession in exploring topical areas of AI and actuarial practice.
 
 **Disclaimer**
 
-- The material in this repository is provided “as is” without any representations or
+- The material in this repository is provided "as is" without any representations or
   warranties of any kind, either express or implied, including but not limited to
   warranties of accuracy, completeness, or fitness for a particular purpose.
 - Use of any information, tools, or resources from this repository is entirely at your
@@ -62,8 +78,3 @@ disclaimer.
 _Last Update: 2025-10-07_
 
 </details>
-
----
-
-### Explore our work
-- Browse all repositories: https://github.com/IAA-AITF?tab=repositories
