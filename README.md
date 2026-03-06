@@ -14,8 +14,8 @@
 
 | Repository | Description |
 |:-----------|:------------|
-| [**Actuarial AI Case Studies**](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies) | A curated collection of case studies demonstrating AI applications in actuarial science — from machine learning and generative AI to agentic systems. |
-| [**AI Tools for Actuaries**](https://github.com/IAA-AITF/AI-Tools-for-Actuaries) | Tutorials, guides, and best practices for using AI-powered tools in actuarial workflows. |
+| [**Actuarial AI Case Studies**](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies) | A curated collection of actuarial AI case studies covering machine learning, generative AI, agentic AI, and more, designed to support actuaries in applying AI to real-world problems. |
+| [**AI Tools for Actuaries**](https://github.com/IAA-AITF/AI-Tools-for-Actuaries) | A resource hub with tutorials and guides helping actuaries use AI tools—including chatbots, coding assistants, data analysis tools, and automation frameworks—effectively in their work. |
 
 ---
 
